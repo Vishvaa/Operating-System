@@ -1,0 +1,12 @@
+Pthread-based Batch Scheduling System Using C.
+To design a batch scheduling system
+To evaluate three scheduling policies/algorithms
+To implement a scheduler where two threads are synchronized
+To learn POSIX Threads Programming
+To use the pthread ligrary and execv()functions
+To study and apply the condition variables using the Pthread library
+To address synchronization issues in the scheduler
+To develop micro batch-­‐job benchmarks
+To design of performance metrics To assess various workload conditions
+Use the GDB tool to debug your C program in LinuxTo strengthen your debugging skill To improve your software development skills
+To boost your operating systems research skills
